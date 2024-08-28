@@ -1,4 +1,4 @@
-import { Application, Graphics, PI_2, Text } from 'pixi.js';
+import { Application, Graphics, Text } from 'pixi.js';
 import { KeyHandler } from './helpers/keyboard';
 
 enum gameStates {
